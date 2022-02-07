@@ -1,3 +1,3 @@
-# React Project for Beginners
+# React Project for Practice
 
 ### Movie App
