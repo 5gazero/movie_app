@@ -1,3 +1,3 @@
-# React Project for Practice
+# React Project Practice
 
 ### Movie App
